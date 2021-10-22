@@ -1,0 +1,1 @@
+I dont understand the adapter pattern, so i challenged myself to use that particularly. I created a size adapter which i used to create size classes for Carpet in CarpetFactory.
